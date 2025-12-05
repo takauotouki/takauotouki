@@ -1,4 +1,10 @@
-## Hi there 👋
+## 皆さん、こんにちは 👋
+
+## Skills
+
+- **Languages**: JavaScript, HTML/CSS, Python, Java, kotlin, C/C++
+- **Frameworks**: React, Node.js, Next.js
+- **Tools**: Git, Docker, VS Code
 
 <!--
 **takauotouki/takauotouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
