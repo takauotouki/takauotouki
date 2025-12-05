@@ -1,4 +1,10 @@
-## 皆さん、こんにちは 👋
+## 📝 Profile
+  ###  🕯️ NAME
+-   ### takauotouki
+  ###  🎍 FROM
+-   ### Japan・Aichi
+
+---
 
 ## 🛠 Tech Stack
 
@@ -16,7 +22,13 @@
 
 ---
 
-
+## 😯 Most Used Languages & Github Status
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-five-rho-94.vercel.app/api/top-langs/?username=takauotouki&layout=compact&show_icons=true&theme=radical"width=100% height=200rem/></td>
+    <td><img src="https://github-readme-stats-five-rho-94.vercel.app/api?username=takauotouki&theme=radical&show_icons=true"width=100% height=200rem/></td>
+  </tr>
+</table>
 
 <!--
 **takauotouki/takauotouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
